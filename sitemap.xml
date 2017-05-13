@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+	<url>
+		<loc>http://ferienwohnung-erlabrunn.de</loc>
+		<lastmod>2013-05-11</lastmod>
+		<changefreq>always</changefreq>
+		<priority>1.0</priority>
+	
+<image:image>
+     <image:loc>http://ferienwohnung-erlabrunn.de/images/IMG_0005.jpg</image:loc>
+<image:caption> Zimmer, ueberblick </image:caption>
+<image:license>http://creativecommons.org/licenses/by/3.0/</image:license>
+   
+   </image:image>
+<image:image>
+     <image:loc>http://ferienwohnung-erlabrunn.de/images/IMG_0011.jpg</image:loc>
+   <image:caption> WC, ueberblick </image:caption>
+<image:license>http://creativecommons.org/licenses/by/3.0/</image:license>
+   </image:image>
+<image:image>
+     <image:loc>http://ferienwohnung-erlabrunn.de/images/IMG_0013.jpg</image:loc>
+   <image:caption> Dusche, ueberblick </image:caption>
+<image:license>http://creativecommons.org/licenses/by/3.0/</image:license>
+   </image:image>
+   <image:image>
+     <image:loc>http://ferienwohnung-erlabrunn.de/images/IMG_0015.jpg</image:loc>
+   <image:caption> Kueche, ueberblick </image:caption>
+<image:license>http://creativecommons.org/licenses/by/3.0/</image:license>
+   </image:image>
+   <image:image>
+     <image:loc>http://ferienwohnung-erlabrunn.de/images/IMG_0017.jpg</image:loc>
+   <image:caption> Esstisch, ueberblick </image:caption>
+<image:license>http://creativecommons.org/licenses/by/3.0/</image:license>
+   </image:image>
+	</url>
+<url>
+		<loc>http://ferienwohnung-erlabrunn.de/index2.html</loc>
+		<lastmod>2013-05-11</lastmod>
+		<changefreq>always</changefreq>
+		<priority>1.0</priority>
+	</url>
+<url>
+		<loc>http://ferienwohnung-erlabrunn.de/Impressum.html</loc>
+		<lastmod>2013-05-11</lastmod>
+		<changefreq>always</changefreq>
+		<priority>1.0</priority>
+	</url>
+<url>
+		<loc>http://ferienwohnung-erlabrunn.de/Kontakt.html</loc>
+		<lastmod>2013-05-11</lastmod>
+		<changefreq>always</changefreq>
+		<priority>1.0</priority>
+	</url>
+<url>
+		<loc>http://ferienwohnung-erlabrunn.de/Preise.html</loc>
+		<lastmod>2013-05-11</lastmod>
+		<changefreq>always</changefreq>
+		<priority>1.0</priority>
+	</url>
+<url>
+		<loc>http://ferienwohnung-erlabrunn.de/Appartment.html</loc>
+		<lastmod>2013-05-11</lastmod>
+		<changefreq>always</changefreq>
+		<priority>1.0</priority>
+	</url>
+</urlset>
